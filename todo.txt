@@ -28,7 +28,7 @@
           - The pages in the server should be accessible to any user in a safe SSH connection, like a serverless cloud service.
           - Be able to deploy dockers in Kubernetes.
 
-      - Configure and run qBitTorrent.
+      + [7/12/2024] Configure and run qBitTorrent.
 
    |> Daemons and Drivers <|
 
@@ -38,15 +38,15 @@
           - Teams
           - Meets
 
-      - [?] Configure Wine and Proton to play Steam and Non-Steam games.
+      + [7/12/2024] Configure Wine and Proton to play Steam and Non-Steam games.
 
-      - [?] Configure RetroArch.
+      + [7/12/2024] Configure RetroArch.
 
-      - [?] Install NVIDIA drivers and assert compatibility with:
-          - Videogames
-          - Pytorch and Tensorflow
-          - Blender
-          - Bottom (to show usage.)
+      - [7/12/2024] Install NVIDIA drivers and assert compatibility with:
+          + Videogames
+          + Pytorch and Tensorflow
+          + Blender
+          + Bottom (to show usage.)
 
    |> Reproducibility <|
 
