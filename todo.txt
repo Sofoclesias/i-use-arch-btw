@@ -1,0 +1,56 @@
+#######################################
+################ TO-DO ################
+#######################################
+
+   Tailoring Arch Linux for my needs.
+   Last updated: Vie., 6/12/24, 23:18.
+
+
+   |> Desktop Environment <|
+
+      + [6/12/2024] Develop a pretty set of workspaces for Hyprland.
+              (+ I think it's pretty so far. Later, I'll make the backgrounds more clear and get more videos to pivot)
+          - Make pivoteable backgrounds.
+
+      + [6/12/2024] Get OBS to work and record screen (to brag about my desktop :p)
+          + [6/12/2024] Solve problems with audio daemons
+              (+ There was no issue with the audio drivers. In wayland, as the documentation said, I needed to set up some extra programs and environmental variables.)
+
+      - Configure my own Neovim interface.
+
+      - Configure Clipboard history.
+     
+   |> Self-Hosting <|
+
+      - Configure and run Dockers.
+      
+      - Configure and run Kubernetes. 
+          - The pages in the server should be accessible to any user in a safe SSH connection, like a serverless cloud service.
+          - Be able to deploy dockers in Kubernetes.
+
+      - Configure and run qBitTorrent.
+
+   |> Daemons and Drivers <|
+
+      - Share screen in:
+          + [6/12/2024] OBS
+          - Discord
+          - Teams
+          - Meets
+
+      - [?] Configure Wine and Proton to play Steam and Non-Steam games.
+
+      - [?] Configure RetroArch.
+
+      - [?] Install NVIDIA drivers and assert compatibility with:
+          - Videogames
+          - Pytorch and Tensorflow
+          - Blender
+          - Bottom (to show usage.)
+
+   |> Reproducibility <|
+
+      - Support the github repository of i-use-arch-btw with my latest changes.
+          - Until I clean all this TO-DO.
+      
+      - Trace the programs and tools that I use, in order to replicate my whole Arch Linux setup in my Workstation.
