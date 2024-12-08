@@ -3,7 +3,7 @@
 #######################################
 
    Tailoring Arch Linux for my needs.
-   Last updated: Vie., 6/12/24, 23:18.
+   Last updated: Dom., 8/12/24, 4:31.
 
 
    |> Desktop Environment <|
@@ -18,11 +18,11 @@
 
       - Configure my own Neovim interface.
 
-      - Configure Clipboard history.
+      + [8/12/2024] Configure Clipboard history.
      
    |> Self-Hosting <|
 
-      - Configure and run Dockers.
+      + [8/12/2024] Configure and run Dockers.
       
       - Configure and run Kubernetes. 
           - The pages in the server should be accessible to any user in a safe SSH connection, like a serverless cloud service.
@@ -32,17 +32,17 @@
 
    |> Daemons and Drivers <|
 
-      - Share screen in:
-          + [6/12/2024] OBS
-          - Discord
-          - Teams
-          - Meets
+      + [8/12/2024] Share screen in:
+          + OBS
+          + Discord
+          + Teams
+          + Meets
 
       + [7/12/2024] Configure Wine and Proton to play Steam and Non-Steam games.
 
       + [7/12/2024] Configure RetroArch.
 
-      - [7/12/2024] Install NVIDIA drivers and assert compatibility with:
+      + [7/12/2024] Install NVIDIA drivers and assert compatibility with:
           + Videogames
           + Pytorch and Tensorflow
           + Blender
